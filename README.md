@@ -28,6 +28,7 @@ I study programming at UTN. I currently work with C and Java, and I like buildin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## Proyectos públicos / Public projects
 
@@ -41,7 +42,7 @@ I study programming at UTN. I currently work with C and Java, and I like buildin
 - **AiVillagers**: mod de Minecraft con IA / Minecraft mod with AI (Java)
 - **VHSGlitcher**: shader de efecto VHS / VHS glitch shader (ShaderLab)
 - **Consultorio Yamanouchi**: sistema para un consultorio odontológico / dental clinic management system (Java)
-- **Odon API**: API y web para gestión odontológica / dental management API and web (HTML)
+- **Odon API**: API y web para gestión odontológica / dental management API and web (HTML, CSS, JavaScript)
 
 ## Estadísticas / Stats
 
