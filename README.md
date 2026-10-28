@@ -5,10 +5,6 @@
   <a href="https://github.com/ufusinho">
     <img src="https://img.shields.io/github/followers/ufusinho?label=Seguir%20%2F%20Follow&style=social" alt="Seguir en GitHub" />
   </a>
-  &nbsp;
-  <a href="mailto:ramirezemiliano1211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar%20%2F%20Contact-555555?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ---
